@@ -1,0 +1,37 @@
+
+# picture data
+/source_pictures
+
+# algorithm generated files
+/prepare_data/window*
+/rtl_configs
+/rom_data/*start_table*
+/rom_data/*window*
+
+# hex files
+/hex_*
+
+# result pictures / benchmark
+/output_goldmethod*
+/output_FIR*
+/output_bilinear*
+/output_nearest*
+/results
+
+# modelsim correlated files
+*.ini
+transcript
+/work
+
+# quartus correlated files
+/synthesis/*.q*
+/synthesis/db
+/synthesis/incremental_db
+
+# environment
+/venv
+
+# waveform
+/*.vcd
+# logs
+/log
