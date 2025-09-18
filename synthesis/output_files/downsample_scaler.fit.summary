@@ -1,0 +1,20 @@
+Fitter Status : Successful - Thu Sep 18 11:31:29 2025
+Quartus II 32-bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : downsample_scaler
+Top-level Entity Name : downsample_scaler
+Family : Cyclone IV GX
+Device : EP4CGX22CF19C6
+Timing Models : Final
+Total logic elements : 4,395 / 21,280 ( 21 % )
+    Total combinational functions : 3,989 / 21,280 ( 19 % )
+    Dedicated logic registers : 1,401 / 21,280 ( 7 % )
+Total registers : 1401
+Total pins : 88 / 167 ( 53 % )
+Total virtual pins : 0
+Total memory bits : 156,768 / 774,144 ( 20 % )
+Embedded Multiplier 9-bit elements : 0 / 80 ( 0 % )
+Total GXB Receiver Channel PCS : 0 / 4 ( 0 % )
+Total GXB Receiver Channel PMA : 0 / 4 ( 0 % )
+Total GXB Transmitter Channel PCS : 0 / 4 ( 0 % )
+Total GXB Transmitter Channel PMA : 0 / 4 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
